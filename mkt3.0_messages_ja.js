@@ -88,10 +88,10 @@ Mkt3L10n.adminAccountSettingsForm = {
   Email: "Email",
   Email_Login: "Email Login",
   Login: "Login",
-  First_Name: "ファーストネーム",
-  Last_Name: "苗字",
+  First_Name: "First Name",
+  Last_Name: "Last Name",
   Mobile_Phone: "Phone Number",
-  Password: "パスワード",
+  Password: "Password",
   User_Experience: "User Experience",
   Note: "To update your account settings, visit your <span style=\"position:relative; display:inline-block;\"><a href =\"{0}\" target=\"_blank\">Adobe Account Profile</a></span>"
 };
@@ -318,7 +318,7 @@ Mkt3L10n.adminEditSubscriptionForm = {
   DB_Cluster: "DB Cluster",
   Ghost_Login_IP_List: "Ghost Login IP List",
   Homepage: "Homepage",
-  Name: "名前",
+  Name: "Name",
   Purpose: "Purpose",
   Save: "Save",
   Status: "Status",
@@ -732,7 +732,7 @@ Mkt3L10n.dcShareButtonForm = {
   Social_Lite: "Like/Recommend Buttons (Lite)",
   Social_Analytics: "Social Buttons (with Analytics)",
   Social_Button: "Social Button",
-  Name: "名前",
+  Name: "Name",
   Clone_From: "Clone From"
 };
 
@@ -745,7 +745,7 @@ Mkt3L10n.dcVideoShareForm = {
   Replace: "Replace",
   Youtube_Video: "YouTube Video",
   Youtube_URL: "YouTube URL",
-  Name: "名前",
+  Name: "Name",
   Clone_From: "Clone From"
 };
 
@@ -802,7 +802,7 @@ Mkt3L10n.TestGroupToolbar = {
 };
 
 Mkt3L10n.Tree = {
-  Name: "名前",
+  Name: "Name",
   Subject: "Subject",
   From_Name: "From Name",
   From_Email: "From Email",
@@ -870,14 +870,14 @@ Mkt3L10n.socialAppParticipants = {
 Mkt3L10n.socialAppPromoCodeViewer = {
   Awarded_Promo_Codes: "Awarded Promo Codes",
   Close: "Close",
-  Name: "名前",
+  Name: "Name",
   Promo_Codes: "Promo Codes"
 };
 
 Mkt3L10n.socialAppVoteViewerForm = {
   Votes: "Votes",
   Close: "Close",
-  Name: "名前"
+  Name: "Name"
 };
 
 Mkt3L10n.referralOfferParticipantsContextMenu = {
@@ -937,7 +937,7 @@ Mkt3L10n.socialAppWinnersGrid = {
   Winners: "{0} Winners",
   Drawing: "Drawing",
   Email: "Email",
-  Name: "名前",
+  Name: "Name",
   No_Of_Wins: "# of Wins",
   Drawing_Date: "Drawing Date",
   Promo_Code: "Promo Code"
@@ -1591,9 +1591,9 @@ Mkt3L10n.DlManager = {
 };
 
 Mkt3L10n.Manager = {
-  Name: "名前",
+  Name: "Name",
   Enabled: "Enabled",
-  Description: "説明",
+  Description: "Description",
   Release_Mode: "Release Mode"
 };
 
@@ -1696,7 +1696,7 @@ Mkt3L10n.LandingPage = {
   Border_Width: "Border-Width",
   Cursor: "Cursor",
   Opacity: "Opacity",
-  Color: "色",
+  Color: "Color",
   Font_Family: "Font-Family",
   Font_Style: "Font-Style",
   Font_Weight: "Font-Weight",
@@ -1875,7 +1875,7 @@ Mkt3L10n.EditableSectionContextMenu = {
 };
 
 Mkt3L10n.ImageInfo = {
-  Name: "名前",
+  Name: "Name",
   Type: "Type",
   Width: "Width",
   Height: "Height",
@@ -2096,7 +2096,7 @@ Mkt3L10n.formSettings = {
   General: "General",
   Field_Defaults: "Field Defaults",
   Social_Form_Fill: "Social Form Fill",
-  Description: "説明",
+  Description: "Description",
   Label_Width: "Label Width",
   Field_Width: "Field Width",
   Gutter_Width: "Gutter Width",
@@ -2259,7 +2259,7 @@ Mkt3L10n.ColumnSetDialog = {
   Add: "Add >>",
   Remove: "<< Remove",
   Custom: "Custom",
-  Name: "名前",
+  Name: "Name",
   Delete: "Delete",
   Loading: "Loading",
   Create: "Create",
@@ -2338,7 +2338,7 @@ Mkt3L10n.FailedTransaction = {
   LeadInterest: "Lead Interest",
   FailedOn: "Failed On",
   Object: "Object",
-  Name: "名前",
+  Name: "Name",
   Email: "Email",
   Direction: "Direction",
   Operation: "Operation",
@@ -2645,7 +2645,7 @@ Mkt3L10n.MetaDataForm = {
   Edit_Landing_Page_Metadata: "Edit Page Meta Tags",
   Title: "Title",
   Keywords: "Keywords",
-  Description: "説明",
+  Description: "Description",
   index_follow: "index, follow",
   index_nofollow: "index, nofollow",
   noindex_follow: "noindex, follow",
@@ -2785,9 +2785,9 @@ Mkt3L10n.socialAppEditorLeadCaptureSettingsGroup = {
   Field_Options: "Field Options",
   Fields: "Fields",
   Required: "Required",
-  Email_Address: "電子メールアドレス",
-  First_Name: "ファーストネーム",
-  Last_Name: "苗字",
+  Email_Address: "Email Address",
+  First_Name: "First Name",
+  Last_Name: "Last Name",
   Company: "Company",
   Address: "Address",
   City: "City",
@@ -3150,13 +3150,13 @@ Mkt3L10n.formFieldNames = {
   Department: "Department",
   DoNotCall: "Do Not Call",
   DoNotCallReason: "Do Not Call Reason",
-  Email: "電子メールアドレス",
+  Email: "Email Address",
   Fax: "Fax Number",
-  FirstName: "ファーストネーム",
+  FirstName: "First Name",
   Industry: "Industry",
   InferredCompany: "Inferred Company",
   InferredCountry: "Inferred Country",
-  LastName: "苗字",
+  LastName: "Last Name",
   LeadRole: "Role",
   LeadScore: "Lead Score",
   LeadSource: "Lead Source",
@@ -3425,7 +3425,7 @@ Mkt3L10n.picklistForm = {
 };
 
 Mkt3L10n.featureSwitchForm = {
-  Password: "パスワード",
+  Password: "Password",
   Password_is_not_valid: "Password is not valid",
   Subfeatures: "Subfeatures",
   Enabled: "Enabled",
@@ -3466,8 +3466,8 @@ Mkt3L10n.nurtureRuntimeTestForm = {
 
 Mkt3L10n.nurtureTrackForm = {
   Title: "Edit Name",
-  Name: "名前",
-  Description: "説明",
+  Name: "Name",
+  Description: "Description",
   save: "Save"
 };
 
@@ -3684,8 +3684,8 @@ Mkt3L10n.ViewSelectionPanel = {
 Mkt3L10n.calendarCustomViewForm = {
   Save_Filter_Definition: "Save Filter Definition",
   Selecting_existing_filter_will_override_configs: "Selecting an existing filter will overwrite configuration",
-  Name: "名前",
-  Description: "説明",
+  Name: "Name",
+  Description: "Description",
   Overwrite_Existing_Filter: "Overwrite existing filter",
   A_filter_with_this_name_already_exists_You_can_pick_a_new_name_or_overwrite_it: "A filter with this name already exists. You can pick a new name or overwrite it"
 };
@@ -3698,7 +3698,7 @@ Mkt3L10n.iCalendarSettingsForm = {
   Add_to_Calendar_: "Ex: Add to Calendar, Save the Date",
   Starts: "Starts",
   Ends: "Ends",
-  Description: "説明",
+  Description: "Description",
   Insert_Token: "Insert Token",
   Edit_Calendar_File: "Edit Calendar File",
   Save: "Save",
@@ -3707,7 +3707,7 @@ Mkt3L10n.iCalendarSettingsForm = {
 
 Mkt3L10n.CalendarEntryTypesPanel = {
   Entry_Type: "Entry Type",
-  Description: "説明",
+  Description: "Description",
   System: "System",
   Custom: "Custom",
   Hidden: "Hidden",
@@ -3972,8 +3972,8 @@ Mkt3L10n.controllerFormEditor = {
 Mkt3L10n.leadComponentForm = {
   New_Lead: "New Lead",
   Create: "Create",
-  First_Name: "ファーストネーム",
-  Last_Name: "苗字",
+  First_Name: "First Name",
+  Last_Name: "Last Name",
   Email: "Email",
   Company: "Company"
 };
@@ -4044,7 +4044,7 @@ Mkt3L10n.testGroupEmailBlastEditor = {
   Close: "Close",
   Test_Settings: "Test Settings",
   Winner_Criteria: "Winner Criteria",
-  Schedule: "Scheduled",
+  Schedule: "Schedule",
   Finish: "Finish",
   Variations: "Variations",
   Test_Type: "Test Type",
@@ -4130,7 +4130,7 @@ Mkt3L10n.testGroupWholeEmailVariant = {
 };
 
 Mkt3L10n.testGroupDateTimeVariant = {
-  Name: "名前"
+  Name: "Name"
 };
 
 Mkt3L10n.testGroupFromVariant = {
@@ -4153,7 +4153,7 @@ Mkt3L10n.emailBlastControlPanel = {
   Leads: "Leads",
   Lead: "Lead",
   Blocked: "Blocked",
-  Schedule: "Scheduled",
+  Schedule: "Schedule",
   Ready_Set: "Ready, set...",
   Head_Start: "Head Start",
   Recipient_Time_Zone: "Recipient Time Zone",
@@ -4278,8 +4278,8 @@ Mkt3L10n.assetForm = {
   Save_To: "Save To",
   Save_From: "Save From",
   Clone_From: "Clone From",
-  Name: "名前",
-  Description: "説明",
+  Name: "Name",
+  Description: "Description",
   Open_Editor: "Open in editor",
   Name_Empty: "Name cannot be empty",
   URL_Empty: "URL cannot be empty",
@@ -4536,8 +4536,8 @@ Mkt3L10n.FiscalCalendarForm = {
 Mkt3L10n.AddCalendarEntryTypeForm = {
   Add_Calendar_Entry_Type: "Add Calendar Entry Type",
   Edit_Calendar_Entry_Type: "Edit Calendar Entry Type",
-  Name: "名前",
-  Description: "説明",
+  Name: "Name",
+  Description: "Description",
   Icon: "Icon",
   Search: "Search...",
   Example_Entry: "Example Entry",
@@ -4547,7 +4547,7 @@ Mkt3L10n.AddCalendarEntryTypeForm = {
 };
 
 Mkt3L10n.EditEntryDescriptionForm = {
-  Description: "説明",
+  Description: "Description",
   Edit_Description: "Edit Description",
   Description_Emptytext: "Description..."
 };
@@ -4670,7 +4670,7 @@ Mkt3L10n.fieldValidationRuleForm = {
   Save: "Save",
   New_Field_Validation_Rule: "New Field Validation Rule",
   Define_your_field_validation_rule: "Define your field validation rule. <a href=\"#\">Learn More</a><br/><br/>",
-  Name: "名前",
+  Name: "Name",
   Allow: "Allow",
   Disallow: "Disallow",
   Email: "Email",
@@ -4701,7 +4701,7 @@ Mkt3L10n.launchpointAuthorizeForm = {
   Authorize_LaunchPoint_Service: "Authorize LaunchPoint Service",
   Authorize: "Authorize",
   Service_Name: "Service Name",
-  Description: "説明",
+  Description: "Description",
   Permissions: "Permissions",
   This_application_will_create_a_new_service: "This application will create a new service",
   Arg0_Will_be_able_to: "{0} will be able to",
@@ -4722,8 +4722,8 @@ Mkt3L10n.controllerFieldValidationGrid = {
 Mkt3L10n.launchpointServiceForm = {
   New_LaunchPoint_Service: "New LaunchPoint Service",
   Save: "Save",
-  Name: "名前",
-  Description: "説明",
+  Name: "Name",
+  Description: "Description",
   Program: "Program",
   Select: "Select...",
   User: "API Only User",
@@ -4737,7 +4737,7 @@ Mkt3L10n.launchpointServiceForm = {
 };
 
 Mkt3L10n.fieldValidationGrid = {
-  Name: "名前",
+  Name: "Name",
   Functions: "Functions",
   Used_By: "Used By",
   Allow: "Allow",
@@ -4890,7 +4890,7 @@ Mkt3L10n.fileSummary = {
 
 Mkt3L10n.assetUsedByGrid = {
   Unknown: "Unknown",
-  Name: "名前"
+  Name: "Name"
 };
 
 Mkt3L10n.customFlowActions = {
@@ -4908,12 +4908,12 @@ Mkt3L10n.customFlowActions = {
   Deprecation_Date: "Deprecation Date",
   Retired: "Retired",
   Basic_Information: "Basic Information",
-  Description: "説明",
+  Description: "Description",
   Service_Definition: "Service Definition",
   Credentials: "Credentials",
   Auth_Type: "Authorization Type",
   User_Name: "User Name",
-  Password: "パスワード",
+  Password: "Password",
   Realm: "Realm",
   Header_Name: "Header Name",
   API_Key: "API Key",
@@ -5094,10 +5094,10 @@ Mkt3L10n.adminNewSubscriptionForm = {
   Time_Zone: "Time Zone",
   Ignore_SFDC_Account: "Ignore SFDC Account",
   User_Id: "User Id",
-  Password: "パスワード",
-  Email_Address: "電子メールアドレス",
-  First_Name: "ファーストネーム",
-  Last_Name: "苗字",
+  Password: "Password",
+  Email_Address: "Email Address",
+  First_Name: "First Name",
+  Last_Name: "Last Name",
   Customer_Prefix_Cannot_Have_Uppercase: "Customer Prefix cannot have UPPERCASE characters",
   Subscription: "Subscription",
   New_User: "New User",
@@ -5132,10 +5132,10 @@ Mkt3L10n.presentationViewerGoalPanel = {
 
 Mkt3L10n.managePresentationsPanel = {
   Presentations: "Presentations",
-  Name: "名前",
-  Description: "説明",
+  Name: "Name",
+  Description: "Description",
   Details: "Details",
-  Created_On: "作成日",
+  Created_On: "Created On",
   Back_To_Calendar: "Back To Calendar",
   Use_The_Action_Menu_To_Create_Presentation: "Use the action menu to create a presentation"
 };
@@ -5160,8 +5160,8 @@ Mkt3L10n.newPresentationForm = {
   New_Presentation: "New Presentation",
   Edit_Presentation: "Edit Presentation",
   Save: "Save",
-  Name: "名前",
-  Description: "説明",
+  Name: "Name",
+  Description: "Description",
   Presentation_with_this_name_exists: "A presentation with this name already exists",
   Presentation_name_is_required: "Presentation name is required",
   Create: "Create"
@@ -5182,7 +5182,7 @@ Mkt3L10n.presentationSetupTreePanel = {
 
 Mkt3L10n.presentationSetupGridPanel = {
   Type: "Type",
-  Name: "名前",
+  Name: "Name",
   Details: "Details",
   Light: "Light",
   Dark: "Dark",
@@ -5274,7 +5274,7 @@ Mkt3L10n.presentationGoalsTreePanel = {
 
 Mkt3L10n.presentationGoalsGridPanel = {
   Type: "Type",
-  Name: "名前",
+  Name: "Name",
   Custom_Goals: "Custom Goals",
   Current_Value_Smart_List: "Current Value/Smart List",
   Smart_List_Goals: "Smart List Goals",
@@ -5285,7 +5285,7 @@ Mkt3L10n.presentationGoalsGridPanel = {
 };
 
 Mkt3L10n.newCustomGoalForm = {
-  Name: "名前",
+  Name: "Name",
   Goal_Target: "Goal Target",
   Current_Value: "Current Value",
   New_Custom_Goal: "New Custom Goal",
@@ -5297,7 +5297,7 @@ Mkt3L10n.newCustomGoalForm = {
 };
 
 Mkt3L10n.newSmartListGoalForm = {
-  Name: "名前",
+  Name: "Name",
   Goal_Target: "Goal Target",
   New_Smart_List_Goal: "New Smart List Goal",
   Your_New_Goal_Will_Be_Preselected_In_The_Table: "The goal will be highlighted. Don't forget to set the Smart List!",
@@ -5320,7 +5320,7 @@ Mkt3L10n.MessageModal = {
 };
 
 Mkt3L10n.presentationSummaryPanel = {
-  Created_On: "作成日",
+  Created_On: "Created On",
   Views: "View(s)",
   Goals: "Goal(s)",
   Rotate_Every: "Rotate Every",
@@ -5351,7 +5351,7 @@ Mkt3L10n.calendarPresentationContextMenu = {
 
 Mkt3L10n.calendarViewDetailsModal = {
   View_Details: "View Details",
-  Name: "名前",
+  Name: "Name",
   Entry_Types: "Entry Types",
   Program_Tags: "Program Tags",
   Definition_Details: "Definition Details",
@@ -5362,7 +5362,7 @@ Mkt3L10n.calendarViewDetailsModal = {
 };
 
 Mkt3L10n.SmartListReportSubscriptionForm = {
-  Name: "名前",
+  Name: "Name",
   Recipients: "Recipients",
   Frequency: "Frequency",
   Create: "Create",
@@ -5466,7 +5466,7 @@ Mkt3L10n.vespaDashboard = {
 
 Mkt3L10n.vespaAppDetailsPanel = {
   Details: "Details",
-  Name: "名前",
+  Name: "Name",
   Application_Type: "Type",
   Created: "Created",
   Last_Modified: "Last Modified",
@@ -5501,7 +5501,7 @@ Mkt3L10n.vespaAppDetailsPanel = {
 
 Mkt3L10n.vespaConfigurePushAccessForm = {
   Certificate: "Certificate",
-  Password: "パスワード",
+  Password: "Password",
   Server_Api_Key: "Server API Key",
   Project_Number: "Project Number / Sender ID",
   Service_Account_Json: "Service Account Json",
@@ -5527,8 +5527,8 @@ Mkt3L10n.controllerVespaConfigurePushAccessForm = {
 };
 
 Mkt3L10n.vespaAppForm = {
-  Name: "名前",
-  Description: "説明",
+  Name: "Name",
+  Description: "Description",
   Application_Type: "Type",
   Production: "Production",
   Sandbox: "Sandbox"
@@ -5660,9 +5660,9 @@ Mkt3L10n.mktocustomactivityActivityTypeForm = {
   CANCEL: "cancel",
   BACK: "Back",
   SUBMIT: "submit",
-  Name: "名前",
+  Name: "Name",
   ApiName: "API Name",
-  Description: "説明",
+  Description: "Description",
   Edit_Field: "Edit Field",
   Attribute_Constraint: "Atrribute Constraint",
   Primary_Attribute_Constraint: "A primary field has already been selected for this activity",
@@ -5694,7 +5694,7 @@ Mkt3L10n.mktocustomactivityActivityDetailsPanel = {
   Created: "Created",
   Last_Modified: "Last Modified",
   Guid: "GUID",
-  Description: "説明",
+  Description: "Description",
   Plural: "Plural Name",
   Api_Name: "API Name",
   State: "State",
@@ -5841,8 +5841,8 @@ Mkt3L10n.mktocustomactivityDependencyPanel = {
 };
 
 Mkt3L10n.mktocustomactivityFieldPanel = {
-  Name: "名前",
-  Description: "説明",
+  Name: "Name",
+  Description: "Description",
   Api_Name: "API Name",
   DataType: "Data Type",
   Primary_Attribute: "Primary Attribute",
@@ -5860,7 +5860,7 @@ Mkt3L10n.mktocustomobjectFieldPanel = {
   Created: "Created",
   Last_Modified: "Last Modified",
   Guid: "GUID",
-  Description: "説明",
+  Description: "Description",
   Plural: "Plural Name",
   Api_Name: "API Name",
   State: "State",
@@ -5905,7 +5905,7 @@ Mkt3L10n.mktocustomobjectObjectDetailsPanel = {
   Created: "Created",
   Last_Modified: "Last Modified",
   Guid: "GUID",
-  Description: "説明",
+  Description: "Description",
   Plural: "Plural Name",
   Api_Name: "API Name",
   State: "State",
@@ -5939,7 +5939,7 @@ Mkt3L10n.mktocustomobjectObjectDetailsPanel = {
   Show: "Show",
   Hide: "Hide",
   TotalRecords: "Total",
-  Name: "名前",
+  Name: "Name",
   Status: "Status",
   RecordCount: "Records",
   FieldCount: "Fields",
@@ -5950,7 +5950,7 @@ Mkt3L10n.mktocustomobjectObjectDetailsPanel = {
 
 Mkt3L10n.mktocustomobjectObjectForm = {
   Display_Name: "Display Name",
-  Description: "説明",
+  Description: "Description",
   Api_Name: "API Name",
   Plural: "Plural Name",
   Lookup: "Lookup Field Name",
@@ -5976,7 +5976,7 @@ Mkt3L10n.mktocustomobjectFieldForm = {
   New_Field: "New Field",
   Edit_Field: "Edit Field",
   Display_Name: "Display Name",
-  Description: "説明",
+  Description: "Description",
   Api_Name: "API Name",
   Lookup: "Lookup Field Name",
   Lookup_Field_Type: "Lookup Field Type",
@@ -6024,7 +6024,7 @@ Mkt3L10n.mktocustomactivityPreview = {
   State: "State",
   Fields: "Fields",
   Field: "Field",
-  Display_Name: "名前",
+  Display_Name: "Name",
   Published: "Approved",
   Unpublished: "New",
   Deleted: "Deleted",
@@ -6051,7 +6051,7 @@ Mkt3L10n.mktocustomactivityFieldToolbar = {
 
 Mkt3L10n.mktocustomobjectPreview = {
   Guid: "GUID",
-  Description: "説明",
+  Description: "Description",
   Plural: "Plural Name",
   Api_Name: "API Name",
   State: "State",
@@ -6100,8 +6100,8 @@ Mkt3L10n.clonePresentationForm = {
   New_Presentation: "Clone Presentation",
   Clone_From: "Clone From",
   Clone_Presentation: "Clone Presentation",
-  Name: "名前",
-  Description: "説明",
+  Name: "Name",
+  Description: "Description",
   Presentation_with_this_name_exists: "A presentation with this name already exists",
   Clone: "Clone"
 };
@@ -6160,7 +6160,7 @@ Mkt3L10n.launchpointServiceIntegrationSettingsForm = {
   Daily: "Daily",
   Delete_login: "Delete Login?",
   Delete: "Delete",
-  Description: "説明",
+  Description: "Description",
   Development: "Development",
   Display_Name_Missing: "Display Name Missing",
   Description_Missing: "Description Missing",
@@ -6246,7 +6246,7 @@ Mkt3L10n.launchpointServiceIntegrationSettingsForm = {
   Participant_password: "Participant Password",
   Partner_name: "Partner Name",
   Pass_code: "Passcode",
-  Password: "パスワード",
+  Password: "Password",
   Please_Fill_All_Required_Fields: "Please fill all required fields",
   Production: "Production",
   Provider: "Provider",
@@ -6335,7 +6335,7 @@ Mkt3L10n.mobilePushNotificationEditor = {
   Setup: "Setup",
   Push_Notification: "Push Notification",
   Finish: "Finish",
-  Name: "名前",
+  Name: "Name",
   App: "App",
   Create_New: "Create New",
   Platforms: "Platforms",
@@ -6425,7 +6425,7 @@ Mkt3L10n.downloadMarketoSolutionForm = {
 Mkt3L10n.inspectSyncForm = {
   Validate_Setup: "Validate Sync Setup",
   Username: "Username",
-  Password: "パスワード",
+  Password: "Password",
   URL: "URL",
   ClientId: "ClientId",
   ClientSecret: "ClientSecret",
@@ -6628,7 +6628,7 @@ Mkt3L10n.vespaTestDevicesPanel = {
   No_Mobile_Apps: "No Mobile Apps",
   No_Mobile_Apps_Exist: "Oops! No mobile apps exits. First create one before adding a device",
   Test_Devices: "Test Devices",
-  Name: "名前",
+  Name: "Name",
   Device_Type: "Device Type",
   Date_Added: "Date Added",
   Push_Enabled: "Push Enabled",
@@ -6748,7 +6748,7 @@ Mkt3L10n.inAppControlPanel = {
   Edit_In_App_Message: "Edit In-App Message",
   Preview_In_App_Message: "Preview In-App Message",
   Display_Event: "Display Event",
-  Schedule: "Scheduled",
+  Schedule: "Schedule",
   Set_Program_Schedule: "Set the schedule of program",
   Run_Immediately: "Run immediately",
   Set_Future_Date: "Set future date",
@@ -6918,10 +6918,10 @@ Mkt3L10n.adminNewSubscriptionFormV2 = {
   Time_Zone: "Time Zone",
   Ignore_SFDC_Account: "Ignore SFDC Account",
   User_Id: "User Id",
-  Password: "パスワード",
-  Email_Address: "電子メールアドレス",
-  First_Name: "ファーストネーム",
-  Last_Name: "苗字",
+  Password: "Password",
+  Email_Address: "Email Address",
+  First_Name: "First Name",
+  Last_Name: "Last Name",
   Customer_Prefix_Cannot_Have_Uppercase: "Customer Prefix cannot have UPPERCASE characters",
   Subscription: "Subscription",
   New_User: "New User",
@@ -6978,7 +6978,7 @@ Mkt3L10n.controllerSubscriptionBundleForm = {
 
 Mkt3L10n.crmEditCredentialsForm = {
   Username: "Username",
-  Password: "パスワード",
+  Password: "Password",
   Url: "URL",
   ClientId: "Client Id",
   ClientSecret:"Client Secret",
@@ -7217,7 +7217,7 @@ Mkt3L10n.inAppMessageEditorImageStyle = {
 Mkt3L10n.inAppMessageEditorPrimaryButtonStyle = {
   Button_Properties: "Button Properties",
   Button_Fill: "Button Fill",
-  Color: "色",
+  Color: "Color",
   Image: "Image",
   Image_Label: "Image:",
   Recommended: "Recommended:<br/>264 x 46 and less than 1MB",
@@ -7244,7 +7244,7 @@ Mkt3L10n.inAppMessageEditorCloseButtonStyle = {
 Mkt3L10n.inAppMessageEditorBackgroundStyle = {
   Background_Properties: "Background Properties",
   Background: "Background",
-  Color: "色",
+  Color: "Color",
   Image: "Image",
   Image_Label: "Image:",
   Recommended: "Recommended:<br/>1080 x 1920 and less than 5MB",
@@ -7282,7 +7282,7 @@ Mkt3L10n.emailTemplatePicker = {
   less: "Less",
   create: "Create",
   clone: "Clone",
-  description: "説明",
+  description: "Description",
   operational: "Operational Email",
   openInEditor: "Open in editor",
   Starter_Templates: "Starter Templates",
@@ -7293,7 +7293,7 @@ Mkt3L10n.emailTemplatePicker = {
   searchEmails: "Search emails ...",
   Search: "Search",
   searchResults: "Search Results",
-  name: "名前",
+  name: "Name",
   Enter_Email_Name: "Enter email name",
   createTooltipFull: "Enter a name and select an email template",
   createTooltipHasName: "Select an email template",
@@ -7349,7 +7349,7 @@ Mkt3L10n.templateCarousel = {
   Mobile: "Mobile",
   Close: "CLOSE",
   Select: "SELECT",
-  Description: "説明",
+  Description: "Description",
   No_Description_Available: "No Description Available",
   Loading: "Loading...",
   Created: "Created",
@@ -7619,8 +7619,8 @@ Mkt3L10n.adminUserInviteWizard = {
   Step_2_Permissions: "Step 2: Permissions",
   Step_3_Message: "Step 3: Message",
   Email: "Email",
-  First_Name: "ファーストネーム",
-  Last_Name: "苗字",
+  First_Name: "First Name",
+  Last_Name: "Last Name",
   Reason: "Reason",
   Access_Expires: "Access Expires",
   Roles: "Roles:",
@@ -7646,8 +7646,8 @@ Mkt3L10n.adminSalesUserInviteWizard = {
   Step_2_Licenses: "Step 2: Licenses",
   Step_3_Message: "Step 3: Message",
   Email: "Email",
-  First_Name: "ファーストネーム",
-  Last_Name: "苗字",
+  First_Name: "First Name",
+  Last_Name: "Last Name",
   Reason: "Reason",
   Access_Expires: "Access Expires",
   Roles: "Roles:",
@@ -7741,7 +7741,7 @@ Mkt3L10n.adminSalesInsightActionsFieldMappingPreviewForm = {
 
 Mkt3L10n.adminSubscriptionInformationForm = {
   Edit_Subscription_Information: "Edit Subscription Information",
-  Name: "名前"
+  Name: "Name"
 };
 
 Mkt3L10n.emailVideoPicker = {
@@ -7795,7 +7795,7 @@ Mkt3L10n.controllerAbmDashboard = {
 
 Mkt3L10n.abmNamedAccountDashboard = {
   Dashboard: "Dashboard",
-  Name: "名前",
+  Name: "Name",
   Title: "Title",
   Priority: "Priority",
   Top_People: "Top People",
@@ -7960,7 +7960,7 @@ Mkt3L10n.abmDiscoverCRMIncludeChildrenForm = {
 Mkt3L10n.abmDiscoverMktoCanvas = {
   Select_Companies: "Select Companies",
   Select: "Select",
-  Name: "名前",
+  Name: "Name",
   Caution: "Caution: Going forward, any new people from these selected companies will get automatically assigned to their respective named accounts.</br>Double check these companies and make sure they are assigned to the right named accounts.",
   Preview: "Preview",
   Create: "Create",
@@ -8074,7 +8074,7 @@ Mkt3L10n.abmIcpModelingCreateModel = {
   Creating_Model: "Creating Model...",
   Depending_On_The_Model_Input_This_May_Take_Some_Time: "Depending on the model input, this may take some time as we process millions of data points.<br>You may close this tab and continue working elsewhere in Marketo. You will receive a notification when your model is ready.",
   Create_New_Model: "Create New Model",
-  Name: "名前",
+  Name: "Name",
   Name_Your_Model: "Name Your Model",
   Ex_Enterprise: "ex. Enterprise",
   Static_List: "Static List",
@@ -8189,7 +8189,7 @@ Mkt3L10n.abmIcpModelingSaveRanksAndIndicatorsForm = {
 
 Mkt3L10n.abmNamedAccountIcpIndicatorsGrid = {
   Indicator: "Indicator",
-  Category: "カテゴリー",
+  Category: "Category",
   Propensity: "Propensity",
   No_Account_Profiling_Indicators: "No Account Profiling Indicators"
 };
@@ -8434,7 +8434,7 @@ Mkt3L10n.abmAccountListPushToFacebookLinkedInForm = {
 };
 
 Mkt3L10n.abmPotentialPeopleGrid = {
-  Name: "名前",
+  Name: "Name",
   Company: "Company",
   Email: "Email",
   Job_Title: "Job Title",
@@ -8455,7 +8455,7 @@ Mkt3L10n.abmOpportunityGrid = {
 };
 
 Mkt3L10n.abmAccountTeamGrid = {
-  Name: "名前",
+  Name: "Name",
   Email: "Email",
   Account_Role: "Account Role",
   Title: "Title",
@@ -8542,7 +8542,7 @@ Mkt3L10n.loginHistoryGrid = {
 Mkt3L10n.auditTrailAssetGrid = {
   Id: "Id",
   Date_Time_0: "Date/Time ({0})",
-  Name: "名前",
+  Name: "Name",
   Email: "Email",
   Action: "Action",
   Asset_Type: "Asset Type",
@@ -8583,7 +8583,7 @@ Mkt3L10n.auditTrailAssetGrid = {
 Mkt3L10n.auditTrailAdminGrid = {
   Id: "Id",
   Date_Time_0: "Date/Time ({0})",
-  Name: "名前",
+  Name: "Name",
   Email: "Email",
   Action: "Action",
   Admin_Area: "Admin Area",
@@ -8594,9 +8594,9 @@ Mkt3L10n.auditTrailAdminGrid = {
 };
 
 Mkt3L10n.createAccountListForm = {
-  Name: "名前",
+  Name: "Name",
   Create: "Create",
-  Description: "説明",
+  Description: "Description",
   Create_Account_List: "Create Account List",
   Rename_Account_List: "Rename Account List",
   Rename: "Rename"
@@ -8781,7 +8781,7 @@ Mkt3L10n.auditTrailAssetDetails = {
   Id: "Id",
   Activity_Detail: "Activity Detail",
   Date_Time_0: "Date/Time ({0})",
-  Name: "名前",
+  Name: "Name",
   Email: "Email",
   Action: "Action",
   Asset_Type: "Asset Type",
@@ -8797,7 +8797,7 @@ Mkt3L10n.auditTrailAdminDetails = {
   Id: "Id",
   Activity_Detail: "Activity Detail",
   Date_Time_0: "Date/Time ({0})",
-  Name: "名前",
+  Name: "Name",
   Email: "Email",
   Action: "Action",
   Admin_Area: "Admin Area",
@@ -9186,7 +9186,7 @@ Mkt3L10n.abmImportAccountCanvas = {
   Account_List_Name: "Account List Name",
   Duplicate_Account_List_Name: "Duplicate Account List name. Please use another name",
   Account_List: "Account List",
-  Name: "名前",
+  Name: "Name",
   Create: "Create",
   None: "None",
   Create_New: "Create New",
@@ -9319,7 +9319,7 @@ Mkt3L10n.adminSsfsServiceWizard = {
   Provider_Instructions: "<b>{0}</b> has provided some additional information to help you complete installation:",
   Basic_Instruction: "Please provide user name and password.<br>Valid API credentials from <b>{0}</b> are required to complete installation.",
   User_Name: "User Name",
-  Password: "パスワード",
+  Password: "Password",
   Realm: "Realm",
   Apikey_Instruction: "Please provide an API Key.<br>Valid API credentials from <b>{0}</b> are required to complete installation.",
   Header_Name: "Header Name",
@@ -9335,7 +9335,7 @@ Mkt3L10n.adminSsfsServiceWizard = {
   Active: "Active",
   External_Field: "External Field",
   Type: "Type",
-  Description: "説明",
+  Description: "Description",
   Marketo_Field: "Marketo Field",
   Required_Mapping_Completed: "{0} of {1} required mapping completed",
   Optional_Mapping_Completed: "{0} of {1} optional mapping completed",
@@ -9448,7 +9448,7 @@ Mkt3L10n.cancelAudienceExportForm = {
   Select_One_Segment: "Select at least one segment",
   Stop_Experience_Cloud_Sync: "Cancel Experience Cloud Sync",
   Stop: "Stop",
-  Name: "名前",
+  Name: "Name",
   Destination: "Destination",
   Loading: "Loading"
 };
@@ -9576,8 +9576,8 @@ Mkt3L10n.migrationConsole = {
 
   Admin_Grid_Panel_Headers: {
     User_Id: "User ID",
-    Name: "名前",
-    Email: "電子メールアドレス",
+    Name: "Name",
+    Email: "Email Address",
     Migration_Status_Text: "Migration Status",
     Workspace_Text: "Workspace",
     Email_Verification_Text: "Verification Status",
@@ -9652,7 +9652,7 @@ Mkt3L10n.AdobeConnect = {
   Member_name: "Member Name",
   Add_Users: "Add Users",
   Empty_Text: "Enter name ...",
-  Label_Name: "名前",
+  Label_Name: "Name",
   User_name: "User Name",
   Connect_Users: "Connect Users",
   Users: 'Users',
