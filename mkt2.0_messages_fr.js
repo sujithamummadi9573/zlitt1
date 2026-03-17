@@ -427,7 +427,7 @@ Mkt3L10n.CampaignSchedule = {
   Tuesday: "Tuesday",
   Wednesday: "Wednesday",
   Thursday: "Thursday",
-  Friday: "Friday",
+  Friday: "Fridays",
   Saturday: "Saturday",
   Repeat_every: "Repeat every",
   Repeat_on: "Repeat on",
@@ -920,7 +920,7 @@ Mkt3L10n.LpEditorSocialShare = {
   Undefined_error: "Undefined error"
 };
 Mkt3L10n.CustomTokens = {
-  Delete_Token: "Delete Token",
+  Delete_Token: "Delete Tokens",
   Edit_Token: "Edit Token",
   Quick_Find: "Quick Find...",
   Search_for_tokens: "Search for tokens.",
@@ -2417,7 +2417,7 @@ Mkt3L10n.WebinarAdmin = {
   Tuesday: "Tuesday",
   Wednesday: "Wednesday",
   Thursday: "Thursday",
-  Friday: "Friday",
+  Friday: "Fridays",
   Saturday: "Saturday",
   Sunday: "Sunday",
   Access_Expires: "Access Expires",

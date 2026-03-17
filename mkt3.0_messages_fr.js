@@ -3804,7 +3804,7 @@ Mkt3L10n.trackCadenceForm = {
   Tuesday: "Tuesday",
   Wednesday: "Wednesday",
   Thursday: "Thursday",
-  Friday: "Friday",
+  Friday: "Fridays",
   Saturday: "Saturday",
   Recipient_Time_Zone: "Recipient Time Zone",
   Learn_More_Link: "<a href='{0}' target='_blank'>Learn More</a>",
@@ -4572,7 +4572,7 @@ Mkt3L10n.testGroupChampionChallengerEditorSummary = {
   Tuesday: "Tuesday",
   Wednesday: "Wednesday",
   Thursday: "Thursday",
-  Friday: "Friday",
+  Friday: "Fridays",
   Saturday: "Saturday",
   And: "and ",
   Send_Frequency: "Send every {0} weeks on {1} | {2}"
@@ -8668,7 +8668,7 @@ Mkt3L10n.adminAbmWeeklyReportSettingsPanel = {
   tuesday: "Tuesday",
   wednesday: "Wednesday",
   thursday: "Thursday",
-  friday: "Friday",
+  friday: "Fridays",
   saturday: "Saturday"
 };
 
@@ -8701,7 +8701,7 @@ Mkt3L10n.adminAbmReportSettingsForm = {
   Tuesday: "Tuesday",
   Wednesday: "Wednesday",
   Thursday: "Thursday",
-  Friday: "Friday",
+  Friday: "Fridays",
   Saturday: "Saturday",
   Sort_By: "Sort by",
   Recipients: "Recipients",
